@@ -1,2 +1,2 @@
 # CountDownNewYear
-New Year Countdown with JavaScript
+New Year Countdown
